@@ -1,0 +1,11 @@
+.from2{
+    border: 1px solid none;
+    width: 400px;
+    background-image: url(../ing/img1.webp);
+    background-size: cover;
+    border-radius: 15px;
+
+}
+.width2{
+    width: 250px;
+}

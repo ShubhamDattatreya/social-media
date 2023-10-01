@@ -1,0 +1,14 @@
+body{
+    background-color: #f2befc;
+}
+.width{
+    width: 300px;
+}
+.from{
+    border: 1px solid none;
+    width: 400px;
+    background-image: url(../ing/img1.webp);
+    background-size: cover;
+    border-radius: 15px;
+
+}
